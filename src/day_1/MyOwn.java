@@ -6,7 +6,8 @@ public class MyOwn {
         System.out.println("My first ever GitHub class");
 
 
-
+// i added from github
+        // i want to see from intlij
 
 
     }
